@@ -15,13 +15,31 @@ Here’s what went into building the dashboard:
    4. Microsoft Excel – The starting point for the raw dataset
 
 # 4.Highlights
+This dashboard isn’t just pretty — it tells a story. Here are some of the highlights, along with the visual tools used to make the data speak:
 
-  1. Sales & Profit Overview – See how the store is performing over time
-  2. Regional Breakdown – View state-wise performance using map visuals
-  3. Product Insights – Know your star performers and which ones need a push
-  4. Customer Segments – Explore buying behavior across different customer types
-  5. Monthly Trends – Identify seasonality and track changes month by month
-  6. Interactive Filters – Play around with slicers to dive deeper into the data
+📊 Sales & Profit Overview
+   Key Visuals: KPI cards, bar charts
+   See how the store is performing at a glance with total sales, profit, and order quantity.
+
+🗺️ Regional Breakdown
+   Key Visuals: Filled map
+   Understand which states are driving the most revenue and where profits are lagging.
+
+📈 Sales Trends Over Time
+   Key Visuals: Line chart, area chart
+   Track sales and profit month by month to uncover seasonal patterns.
+
+🧺 Top & Bottom Products
+   Key Visuals: Stacked column chart, bar chart
+   Easily identify best-selling categories and underperforming items.
+
+👥 Customer Segment Analysis
+   Key Visuals: Pie chart, donut chart
+   See how different customer types (Consumer, Corporate, Home Office) contribute to sales.
+
+🎛️ Interactive Filters
+   Key Visuals: Slicers
+   Filter data by region, segment, category, and date range for a personalized view.
 
 # 5.Future Enhancements
 Here’s how I plan to take this dashboard even further:
