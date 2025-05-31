@@ -16,30 +16,35 @@ Here’s what went into building the dashboard:
 
 # 4.Highlights
 This dashboard isn’t just pretty — it tells a story. Here are some of the highlights, along with the visual tools used to make the data speak:
+📊 Key Visuals & Their Purpose
+   KPI Cards – Show total sales, profit, quantity sold, and profit margin at a glance
+   → Quick snapshot of overall performance for executives and managers
 
-📊 Sales & Profit Overview
-   Key Visuals: KPI cards, bar charts
-   See how the store is performing at a glance with total sales, profit, and order quantity.
+   Line & Area Charts – Visualize monthly sales and profit trends
+   → Spot seasonal patterns and identify growth or decline over time
 
-🗺️ Regional Breakdown
-   Key Visuals: Filled map
-   Understand which states are driving the most revenue and where profits are lagging.
+   Stacked Bar Charts – Compare sales and profits by category and sub-category
+   → Understand which products are thriving and which ones need attention
 
-📈 Sales Trends Over Time
-   Key Visuals: Line chart, area chart
-   Track sales and profit month by month to uncover seasonal patterns.
+   Map Visualization – State-wise sales and profit heatmap
+   → Pinpoint high- and low-performing regions for better regional strategies
 
-🧺 Top & Bottom Products
-   Key Visuals: Stacked column chart, bar chart
-   Easily identify best-selling categories and underperforming items.
+   Pie & Donut Charts – Customer segmentation by region, segment, and shipping mode
+   → Get to know your customers and tailor marketing accordingly
 
-👥 Customer Segment Analysis
-   Key Visuals: Pie chart, donut chart
-   See how different customer types (Consumer, Corporate, Home Office) contribute to sales.
+   Tables with Conditional Formatting – Highlight top/bottom performers with color-coded cues
+   → Make it easy to spot outliers and performance gaps
 
-🎛️ Interactive Filters
-   Key Visuals: Slicers
-   Filter data by region, segment, category, and date range for a personalized view.
+   Slicers (Filters) – For region, segment, category, date range, etc.
+   → Let users explore the data on their own terms
+
+💼 Business Impact & Insights
+   1. Identify High-Profit Product Segments – Focus marketing and stocking on top categories
+   2. Optimize Regional Strategies – Allocate resources based on regional performance
+   3. Improve Customer Targeting – Understand segment behavior to personalize campaigns
+   4. Track Performance Over Time – Set realistic targets using historical trends
+   5. Find Hidden Opportunities – Spot underperforming products that have potential
+   6. Support Decision-Making – Give management clear, data-backed insights
 
 # 5.Future Enhancements
 Here’s how I plan to take this dashboard even further:
