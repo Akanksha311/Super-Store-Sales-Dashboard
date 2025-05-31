@@ -23,7 +23,7 @@ Here’s what went into building the dashboard:
   5. Monthly Trends – Identify seasonality and track changes month by month
   6. Interactive Filters – Play around with slicers to dive deeper into the data
 
-# 5.Future Enhancements)
+# 5.Future Enhancements
 Here’s how I plan to take this dashboard even further:
 
   1. Connect to real-time data sources for live tracking
