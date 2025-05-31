@@ -56,3 +56,5 @@ Here’s how I plan to take this dashboard even further:
   5. Add role-based views, so different users see what matters most to them
   6. Include customer value metrics like CLV (Customer Lifetime Value)
   7. Compare sales vs inventory to help manage stock levels better
+# 6. Scrennshot
+Show what the dashboard looks like -> ![Dashboard Preview](https://github.com/Akanksha311/Super-Store-Sales-Dashboard/blob/main/snapshot%20of%20sdashboard.png)
